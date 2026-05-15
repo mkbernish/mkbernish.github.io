@@ -20,7 +20,7 @@ github_username: "mkbernish"
 #########################################################################################
 theme: "minima"
 #
-(_posts/IMG_0010(1).jpg){: style="width:200px; float:right;"}
+"!"[de:hub.de-Projekt](_posts/IMG_0010(1).jpg){: style="width:200px; float:right;"}
 
 rss: rss
 
