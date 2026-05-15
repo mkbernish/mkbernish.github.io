@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hello! I'm Maggie, a recent graduate from the University of Rhode Island's Graduate School of Oceanography. I have created this blog to share tutorials on common oceanographic figures. I primarily use MATLAB but am considering doing some tutorials for Python as well. As a PhD student in biological oceanography, I realized that coding can be a major barrier of entry into ocean sciences. I hope that through this blog, people can learn to use programming to better visualize our oceans and how they are changing!
